@@ -16,7 +16,7 @@ package multi
 import (
 	"context"
 
-	consensusclient "github.com/attestantio/go-eth2-client"
+	consensusclient "github.com/chorusone/go-eth2-client"
 	"github.com/pkg/errors"
 )
 

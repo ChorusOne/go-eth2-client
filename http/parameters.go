@@ -16,7 +16,7 @@ package http
 import (
 	"time"
 
-	"github.com/attestantio/go-eth2-client/metrics"
+	"github.com/chorusone/go-eth2-client/metrics"
 	"github.com/pkg/errors"
 	"github.com/rs/zerolog"
 )

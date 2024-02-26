@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"io"
 
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/chorusone/go-eth2-client/spec/phase0"
 	"github.com/huandu/go-clone"
 	"github.com/pkg/errors"
 )

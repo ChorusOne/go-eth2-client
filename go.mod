@@ -1,9 +1,9 @@
-module github.com/attestantio/go-eth2-client
+module github.com/chorusone/go-eth2-client
 
 go 1.20
 
 require (
-	github.com/ferranbt/fastssz v0.1.3
+	github.com/ferranbt/fastssz v0.1.4-0.20240117155353-be958d20c2b3
 	github.com/goccy/go-yaml v1.9.2
 	github.com/golang/snappy v0.0.4
 	github.com/holiman/uint256 v1.2.4

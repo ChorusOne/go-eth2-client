@@ -17,7 +17,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/attestantio/go-eth2-client/api"
+	"github.com/chorusone/go-eth2-client/api"
 	"github.com/pkg/errors"
 )
 

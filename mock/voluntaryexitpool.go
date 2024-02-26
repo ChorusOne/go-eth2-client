@@ -16,8 +16,8 @@ package mock
 import (
 	"context"
 
-	"github.com/attestantio/go-eth2-client/api"
-	spec "github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/chorusone/go-eth2-client/api"
+	spec "github.com/chorusone/go-eth2-client/spec/phase0"
 )
 
 // VoluntaryExitPool fetches the voluntary exit pool.

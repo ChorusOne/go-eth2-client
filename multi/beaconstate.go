@@ -16,9 +16,9 @@ package multi
 import (
 	"context"
 
-	consensusclient "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/spec"
+	consensusclient "github.com/chorusone/go-eth2-client"
+	"github.com/chorusone/go-eth2-client/api"
+	"github.com/chorusone/go-eth2-client/spec"
 )
 
 // BeaconState fetches a beacon state.

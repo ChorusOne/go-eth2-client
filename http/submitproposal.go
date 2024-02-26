@@ -19,8 +19,8 @@ import (
 	"encoding/json"
 	"strings"
 
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/spec"
+	"github.com/chorusone/go-eth2-client/api"
+	"github.com/chorusone/go-eth2-client/spec"
 	"github.com/pkg/errors"
 )
 

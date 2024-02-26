@@ -16,8 +16,8 @@ package api_test
 import (
 	"testing"
 
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/spec"
+	"github.com/chorusone/go-eth2-client/api"
+	"github.com/chorusone/go-eth2-client/spec"
 	"github.com/stretchr/testify/require"
 )
 

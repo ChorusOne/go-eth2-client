@@ -6,8 +6,8 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/http"
+	"github.com/chorusone/go-eth2-client/api"
+	"github.com/chorusone/go-eth2-client/http"
 	"github.com/pkg/errors"
 	"github.com/stretchr/testify/require"
 )

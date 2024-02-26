@@ -18,13 +18,13 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/spec"
-	"github.com/attestantio/go-eth2-client/spec/altair"
-	"github.com/attestantio/go-eth2-client/spec/bellatrix"
-	"github.com/attestantio/go-eth2-client/spec/capella"
-	"github.com/attestantio/go-eth2-client/spec/deneb"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	"github.com/chorusone/go-eth2-client/api"
+	"github.com/chorusone/go-eth2-client/spec"
+	"github.com/chorusone/go-eth2-client/spec/altair"
+	"github.com/chorusone/go-eth2-client/spec/bellatrix"
+	"github.com/chorusone/go-eth2-client/spec/capella"
+	"github.com/chorusone/go-eth2-client/spec/deneb"
+	"github.com/chorusone/go-eth2-client/spec/phase0"
 	"github.com/pkg/errors"
 )
 

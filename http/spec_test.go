@@ -18,10 +18,10 @@ import (
 	"os"
 	"testing"
 
-	client "github.com/attestantio/go-eth2-client"
-	"github.com/attestantio/go-eth2-client/api"
-	"github.com/attestantio/go-eth2-client/http"
-	"github.com/attestantio/go-eth2-client/spec/phase0"
+	client "github.com/chorusone/go-eth2-client"
+	"github.com/chorusone/go-eth2-client/api"
+	"github.com/chorusone/go-eth2-client/http"
+	"github.com/chorusone/go-eth2-client/spec/phase0"
 	"github.com/stretchr/testify/require"
 )
 

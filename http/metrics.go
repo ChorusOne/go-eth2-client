@@ -17,7 +17,7 @@ import (
 	"context"
 	"regexp"
 
-	"github.com/attestantio/go-eth2-client/metrics"
+	"github.com/chorusone/go-eth2-client/metrics"
 	"github.com/pkg/errors"
 	"github.com/prometheus/client_golang/prometheus"
 )
